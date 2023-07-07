@@ -35,7 +35,7 @@ li a:hover{
     font-size: 20px;
     border: 1px soli black;
 }
-li {
+.nav {
     display: inline-block;
     margin: 50px;
     text-decoration: none;
@@ -64,6 +64,15 @@ p {
     margin-top: 20px;
 }
 
-#time {
+/*meet up*/
 
+
+.meet {
+    border: 1px solid black;
+    height: 200px;
+    width: 33%;
+    display: inline-block;
+    box-sizing: border-box;
+    margin-top: 20px;
+    background-color:rgb(26, 98, 148); ;
 }
