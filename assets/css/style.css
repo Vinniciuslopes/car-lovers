@@ -5,10 +5,12 @@ body {
 /* logo*/
 .logo {
     border: 1px solid blue;
-    height: 400px;
+    height: 600px;
     width: 100%;
     background-image: url('../images/grey-blue-cars-put-each-other-cloudy-sky_181624-16862.avif');
-    background-position: cover;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 
 }
 .car {
@@ -21,6 +23,7 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
     font-size: xx-large;
     color: rgb(26, 98, 148);
+    
 }
 
 
@@ -67,12 +70,15 @@ p {
 /*meet up*/
 
 
-.meet {
-    border: 1px solid black;
-    height: 200px;
+#meet div {
+   background-color: rgb(26, 98, 148);
     width: 33%;
-    display: inline-block;
+    height: 300px;
+    float: left;
+    padding: 30px 0 0 10px;
+    text-align: center;
+    border: 1px solid black;
     box-sizing: border-box;
     margin-top: 20px;
-    background-color:rgb(26, 98, 148); ;
+    color:white;
 }
