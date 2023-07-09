@@ -52,7 +52,7 @@ h1, h2{
     border-bottom: 1px solid #3a3a3a;
 }
 
-/* car image */
+/* car image main */
 
 #car-main {
     height: 600px;
@@ -65,5 +65,71 @@ h1, h2{
     
     
 }
+ 
+/*section 1*/
+
+#muscle {
+    height: 300px;
+    width: 100%;
+    background-image: url('../images/sedan-parked-deserted-area-cloudy-sky_181624-24377.avif');
+    background-position: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    
+}
+
+/* muscle text*/
+
+
+
+#muscle-text {
+    padding: 40px;
+    text-align: justify;
+    font-size: 150%;
+}
+
+/* section 2 classics*/
+
+#classics {
+    height: 300px;
+    width: 100%;
+    background-image: url('../images/closeup-shot-grey-car-front-building_181624-27502.jpg');
+    background-position: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    
+
+}
+/*classic text*/
+
+#classic-text {
+    padding: 40px;
+    text-align: justify;
+    font-size: 150%;
+    
+}
+
+/* section 3 vw image*/
+#vw {
+    height: 300px;
+    width: 100%;
+    background-image: url('../images/low-transport-bright-car-motor_1304-1329.avif');
+    background-position: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+
+}
+/*vw text*/
+
+#vw-text {
+    padding: 40px;
+    text-align: justify;
+    font-size: 150%;
+}
+
+
 
 
