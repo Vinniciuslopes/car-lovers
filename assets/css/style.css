@@ -65,7 +65,10 @@ h1, h2{
     
     
 }
- 
+ /*header text*/
+ #header-text {
+    text-align: center;
+ }
 /*section 1*/
 
 #muscle {
