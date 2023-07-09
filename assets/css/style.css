@@ -68,17 +68,8 @@ p {
 }
 
 /*meet up*/
-
-
-#meet div {
-   background-color: rgb(26, 98, 148);
-    width: 33%;
-    height: 300px;
-    float: left;
-    padding: 30px 0 0 10px;
-    text-align: center;
-    border: 1px solid black;
-    box-sizing: border-box;
-    margin-top: 20px;
-    color:white;
+#classic {
+   height: 300px;
+   width: 25%;
+    background-image: url('../images/closeup-shot-grey-car-front-building_181624-27502.jpg');
 }
