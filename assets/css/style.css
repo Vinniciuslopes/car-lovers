@@ -52,4 +52,18 @@ h1, h2{
     border-bottom: 1px solid #3a3a3a;
 }
 
+/* car image */
+
+#car-main {
+    height: 600px;
+    width: 100%;
+    background-image:  url('../images/grey-blue-cars-put-each-other-cloudy-sky_181624-16862.avif');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+    
+    
+}
+
 
