@@ -134,9 +134,25 @@ h1, h2{
 }
 
 /*footer*/
-.social-media [
-    
-]
+footer {
+    height: 150px;
+}
+
+.social-media {
+    text-align: center;
+}
+.social-media>li {
+    display: inline;
+}
+
+.social-media i{
+    font-size: 160;
+    padding: 5%;
+    color: #3a3a3a;
+}
+  
+
+
 
 
 
