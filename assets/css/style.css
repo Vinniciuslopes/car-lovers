@@ -132,7 +132,15 @@ h1, h2{
     padding: 40px;
     text-align: justify;
     font-size: 150%;
+
     
+}
+/*event  time*/
+
+.time {
+    height: 150px;
+    width: 33%;
+    display: inline-block;
     
 }
 
@@ -141,19 +149,24 @@ h1, h2{
 /*footer*/
 footer {
     height: 150px;
+    
 }
 
 .social-media {
     text-align: center;
+    
 }
 .social-media>li {
     display: inline;
+    
 }
 
 .social-media i{
-    font-size: 160;
+    font-size: 160%;
     padding: 5%;
     color: #3a3a3a;
+    clear: both;
+    
 }
   
 
