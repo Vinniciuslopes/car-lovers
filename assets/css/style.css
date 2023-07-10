@@ -115,7 +115,7 @@ h1, h2{
 }
 
 /* section 3 vw image*/
-#vw {
+.vw {
     height: 300px;
     width: 100%;
     background-image: url('../images/low-transport-bright-car-motor_1304-1329.avif');
@@ -123,6 +123,7 @@ h1, h2{
     background-position: center;
     background-repeat: no-repeat;
     margin-top: 20px;
+    
 
 }
 /*vw text*/
@@ -131,7 +132,11 @@ h1, h2{
     padding: 40px;
     text-align: justify;
     font-size: 150%;
+    
+    
 }
+
+
 
 /*footer*/
 footer {
