@@ -138,10 +138,16 @@ h1, h2{
 /*event  time*/
 
 .time {
-    height: 150px;
+    height: 300px;
     width: 33%;
     display: inline-block;
+    border: 1px solid #3a3a3a;
+    text-align: center;
     
+    
+}
+.time  h1 {
+    border-bottom: 2p solid #3a3a3a;
 }
 
 
@@ -170,7 +176,14 @@ footer {
 }
   
 
+/*form section*/
 
+#form-section {
+    clear: both;
+    background-color: lightblue;
+    height: 900px;
+    
+}
 
 
 
