@@ -192,6 +192,34 @@ footer {
     padding: 100px;
 }
 
+/* Text input*/
+
+.container {
+    width: 80%;
+    height: 400px;
+    margin-left: 130px;
+    background-color: white;
+}
+
+.text-input {
+    width: 50%;
+    height: 25px;
+    margin: 5px 0 0 20px;
+    border: 1px solid #3a3a3a;
+    border-radius: 2px;
+}
+/* input hover*/
+
+.text-input:hover {
+    border-color: red;
+    height: 30px;
+
+}
+
+/* selet a car
+
+
+
 
 
 
