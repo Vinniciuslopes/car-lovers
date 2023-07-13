@@ -47,6 +47,9 @@ Car Lovers Express is a web page that aims on conecting people that are passiona
 
 ### **Footer**
 
+![Screenshot 2023-07-13 at 12 18 25](https://github.com/Vinniciuslopes/car-lovers/assets/131663952/77d571f6-0e96-466b-9c7f-1fe157d73748)
+
+
 - The footer is displayed at the bottom  of the page.
 - The icon are external links to an Instagram, Twitter, YouTube and Facebook page. 
 
