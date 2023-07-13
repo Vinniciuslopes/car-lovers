@@ -14,7 +14,7 @@ Car Lovers Express is a web page that aims on conecting people that are passiona
 
 ### **Header**
 
-## [Car Show Express ]( https://vinn![Screenshot 2023-07-13 at 12 08 47](https://github.com/Vinniciuslopes/car-lovers/assets/131663952/ac61cbd5-c688-44a8-980c-fd1ad007b5d6)
+## [Car Show Express ]](https://github.com/Vinniciuslopes/car-lovers/assets/131663952/ac61cbd5-c688-44a8-980c-fd1ad007b5d6)
 iciuslopes.github.io/car-lovers/)
 
 
