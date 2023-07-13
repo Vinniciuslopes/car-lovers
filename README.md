@@ -11,3 +11,80 @@ Car Lovers Express is a web page that aims on conecting people that are passiona
 - It links the page to its respective areas once you click on it.
 - The color was chosen to contrast the background color.
 ![Screenshot 2023-07-13 at 10 55 05](https://github.com/Vinniciuslopes/car-lovers/assets/131663952/cf940de3-16ac-459f-bb69-c0e86a090b9c)
+
+### **Header**
+
+## [Car Show Express ]( https://vinniciuslopes.github.io/car-lovers/)
+
+
+- The name Car show express on the top left corner is link to the home page.
+- The name and the image was chosen because they are tellwhat the web page is about.
+
+### **American muscle, Calssicas and Volkswagen part**
+
+- This part displays pictures of some of the models that you can find on the car show.
+- It gives a brief explanation of what the car and show is all about.
+
+### **Events**
+
+- The events part displays the events time and location of the car show.
+- It also displays the type of car that will be displayed.
+
+### **The sign up form**
+
+- The sign up form is where people who are insterested on the car show can send in their information.
+- There is also the logo on the top left corner  and navigation links on the top right corner.
+- There is and input for  first name, last name, email address, three options of type of car.
+- There is also a submit input and at the bottom all the social media links.
+
+### **Footer**
+
+- The footer is displayed at the bottom  of the page.
+- The icon are external links to an Instagram, Twitter, YouTube and Facebook page. 
+
+### **Testing**
+
+- I tested this page and works fine on different browsers, safari, google chrome and fire box.
+- I confirmed that this project is responsive, looks good and fuctions on all standard sizes device.
+- I confirmed that the navigation, header, home, gallery and signup form are readable and easy to understand.
+- I have confirmed that the form works: require entries in every field, will only accept an email in the email field, and the submit button works.
+
+### **Validator Testing**
+
+- HTML
+  - There was an error on html lang= en-us, when passing through the official [W3C validator](https://validator.w3.org/).
+- CSS
+
+  - There was an error found where it was missing percentage sign and a semicolon when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/).
+
+- Accessibility  
+
+  - I confirmed  that colors and fonts chosen are easy and accessible.
+
+   ### **Deployment**
+
+- Github was used to deploying this page.
+  - In the github repository, navigate to setting tab.
+  - On the left side there are several tabs, scrolled  down and click on page.
+  - Looked for branch and selected main.
+
+The link can be found here https://vinniciuslopes.github.io/car-lovers/
+
+### **Credits**
+
+### **Content**
+
+- The text for the America muscle car paragraph  was taken from https://en.wikipedia.org/wiki/Muscle_car
+- The text for the Classic car paragraph was taken from https://en.wikipedia.org/wiki/Classic_car
+- The text for the Volkswagen car paragraph was taken from https://en.wikipedia.org/wiki/Volkswagen 
+- The icons in footer was taken from [Font Awesome](https://fontawesome.com/icons)
+- The idea for this project was taken from https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LR101+2021_T1/courseware/4a07c57382724cfda5834497317f24d5/637be1a2e3b84b25aa33f3ab4d98603c/?child=first
+
+### **Media**
+
+- All the images used on this project were take from https://www.freepik.com/free-photos-vectors/png
+
+- The README.md file idea was taken from https://github.com/Code-Institute-Solutions/readme-template
+  
+
+
