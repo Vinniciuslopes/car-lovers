@@ -29,6 +29,9 @@ Car Lovers Express is a web page that aims on conecting people that are passiona
 
 ### **Events**
 
+<img width="1141" alt="Screenshot 2023-07-13 at 12 14 09" src="https://github.com/Vinniciuslopes/car-lovers/assets/131663952/5948b005-0eb1-4e6b-9b7b-f201e4734878">
+
+
 - The events part displays the events time and location of the car show.
 - It also displays the type of car that will be displayed.
 
