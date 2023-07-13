@@ -37,6 +37,9 @@ Car Lovers Express is a web page that aims on conecting people that are passiona
 
 ### **The sign up form**
 
+<img width="1058" alt="Screenshot 2023-07-13 at 12 16 38" src="https://github.com/Vinniciuslopes/car-lovers/assets/131663952/52814092-d5b3-477e-aa90-6866b3614b0c">
+
+
 - The sign up form is where people who are insterested on the car show can send in their information.
 - There is also the logo on the top left corner  and navigation links on the top right corner.
 - There is and input for  first name, last name, email address, three options of type of car.
