@@ -63,7 +63,7 @@ Car Lovers Express is a web page that aims on conecting people that are passiona
 ### **Validator Testing**
 
 - HTML
-  - There was an error on html lang= en-us, when passing through the official [W3C validator](https://validator.w3.org/).
+  - There was an error on html lang= en-us, used sections and hat to change to divs when passing through the official [W3C validator](https://validator.w3.org/).
 - CSS
 
   - There was an error found where it was missing percentage sign and a semicolon when passing through the official [Jigsaw validator](https://jigsaw.w3.org/css-validator/).
@@ -71,6 +71,9 @@ Car Lovers Express is a web page that aims on conecting people that are passiona
 - Accessibility  
 
   - I confirmed  that colors and fonts chosen are easy and accessible.
+ 
+    ![Screenshot 2023-07-15 at 19 38 10](https://github.com/Vinniciuslopes/car-lovers/assets/131663952/e112b614-46ea-421e-aaa2-02ffc7ab704b)
+
 
    ### **Deployment**
 
